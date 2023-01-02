@@ -4,7 +4,7 @@ pandas-ta==0.3.14b
 
 ccxt==1.80.61
 # Pin cryptography for now due to rust build errors with piwheels
-cryptography==36.0.2
+cryptography==39.0.0
 aiohttp==3.8.1
 SQLAlchemy==1.4.35
 python-telegram-bot==13.11
